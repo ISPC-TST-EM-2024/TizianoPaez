@@ -1,0 +1,4 @@
+-Que es? componente eléctrico que se utiliza para controlar y limitar la corriente eléctrica en un circuito
+-Funcionamiento: Es oponerse al paso de la corriente, provocando una caida de tension en el componente
+-Caracterisitcas: Se expresa en OHMIOS;su coeficiente de temperatura (que muestra cómo cambia su valor con respecto a los cambios de temperatura) y sus especificaciones físicas, como tamaño y forma;se utilizan ampliamente en electrónica y electricidad para controlar el flujo de corriente, proteger componentes sensibles, dividir voltajes, ajustar niveles eléctricos,etc
+

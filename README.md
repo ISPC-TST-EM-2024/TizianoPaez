@@ -6,15 +6,13 @@
 ## Presentación de la estructura del monorepositorio
 TP#1. Fundamentos de circuitos electricos 
 
-TP#2.
+TP#2. Simulación electrónica
 
-TP#3.
+TP#3. CLC 
 
-TP#3.
+TP#4. Completar estructura ABP en GitHub y colocar perfil del estudiante
 
-TP#4.
-
-TP#5.
+TP#5. Síntesis de funciones lógicas y circuitos secuenciales
 ##
 
 # Resumen del repositorio actual TP#5
@@ -43,5 +41,6 @@ b. F(A, B, C, D) = ΠM(2, 4, 7, 8, 10, 13, 14, 15)
 4.Introducción a circuitos secuenciales y flip-flops Investigar y describir brevemente las características y tipos de flip-flops (SR, D, JK, T). Explicar cómo estos elementos de memoria pueden ser utilizados en circuitos secuenciales.
 
 
-## Informacion adicional:
-Alumno: Paez Tiziano Adrian  
+## Perfil del estudiante
+
+![alt text](fotocv.png)
