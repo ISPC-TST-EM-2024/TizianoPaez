@@ -1,6 +1,0 @@
-Que es? es un dispositivo semiconductor que emite luz cuando una corriente eléctrica pasa a través de él en la dirección correcta.
-Los LEDs son pequeños y no tienen filamentos que se quemen, lo que les da una vida útil más larga.
-
-Funcionamiento:utilizado en iluminación doméstica e industrial, pantallas electrónicas y dispositivos electrónicos debido a su eficiencia y durabilidad.
-
-caracterisitcas:arga vida útil, tamaño compacto, encendido instantáneo, variedad de colores disponibles, resistencia a golpes y vibraciones, y posibilidad de controlar el brillo y color.

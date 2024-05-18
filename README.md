@@ -8,7 +8,7 @@ TP#1. Fundamentos de circuitos electricos
 
 TP#2. Simulación electrónica
 
-TP#3. CLC 
+TP#3. CLC
 
 TP#4. Completar estructura ABP en GitHub y colocar perfil del estudiante
 
