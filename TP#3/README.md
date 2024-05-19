@@ -1,4 +1,5 @@
 # LOGO
+![alt text](image.png)
 ## Electronicamicrocontrolada
 
 # Profesor: Vera Cristian Gonzalo
