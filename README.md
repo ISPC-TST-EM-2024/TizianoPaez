@@ -13,6 +13,8 @@ TP#3. CLC
 TP#4. Completar estructura ABP en GitHub y colocar perfil del estudiante
 
 TP#5. Síntesis de funciones lógicas y circuitos secuenciales
+
+TP#10. Entrenador basico
 ##
 
 # Resumen del repositorio actual TP#5
